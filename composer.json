@@ -1,5 +1,5 @@
 {
-    "name": "dootix-developer/inertiajs-tables-laravel-query-builder",
+    "name": "claudion85/inertiajs-tables-laravel-query-builder",
     "description": "Inertia.js Front-end Components for Spatie's Laravel Query Builder",
     "homepage": "https://github.com/dootix-developer/inertiajs-tables-laravel-query-builder",
     "type": "library",
